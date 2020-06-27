@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2048", "2048\2048.csproj", "{1C002FE6-F09B-49EA-AFE6-D808136C79EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C002FE6-F09B-49EA-AFE6-D808136C79EC}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{1C002FE6-F09B-49EA-AFE6-D808136C79EC}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{1C002FE6-F09B-49EA-AFE6-D808136C79EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C002FE6-F09B-49EA-AFE6-D808136C79EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C002FE6-F09B-49EA-AFE6-D808136C79EC}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C002FE6-F09B-49EA-AFE6-D808136C79EC}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{1C002FE6-F09B-49EA-AFE6-D808136C79EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C002FE6-F09B-49EA-AFE6-D808136C79EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C002FE6-F09B-49EA-AFE6-D808136C79EC}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{1C002FE6-F09B-49EA-AFE6-D808136C79EC}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CFCF36D-DF4D-4446-8A19-62CF78346E34}
+	EndGlobalSection
+EndGlobal
